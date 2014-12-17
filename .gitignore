@@ -1,0 +1,8 @@
+*~
+#*#
+*_assh_*
+*.swp
+README.html
+doc/glossary.html
+node_modules
+build/
